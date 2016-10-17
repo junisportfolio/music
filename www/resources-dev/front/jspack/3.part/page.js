@@ -5,9 +5,12 @@
 		var $body = $('body, html');
 		var $nav = $('.nav');
 		var $hotIssue = $('.hot-issue');
+		var $visuals = $('#visual');
+		var $personalInfo = $('.personal-info');
+
 
 		$nav.each(function(){
-			var $sitemap = $nav.find('.sitemap');
+			var $sitemap = $('.sitemap', $nav);
 
 			$sitemap.on('click', function(e){
 				e.preventDefault();
@@ -27,10 +30,10 @@
 		})
 
 		$hotIssue.each(function(){
-			var $prevIssue = $hotIssue.find('.prev-issue');
-			var $nextIssue = $hotIssue.find('.next-issue');
-			var $issueUl = $hotIssue.find('>ul');
-			var $issueLi = $issueUl.find('>li');
+			var $prevIssue = $('.prev-issue', $hotIssue);
+			var $nextIssue = $('.next-issue', $hotIssue);
+			var $issueUl = $('>ul', $hotIssue);
+			var $issueLi = $('>li', $issueUl);
 			var toggleCheck = false;
 
 			$prevIssue.on('click',function(){
@@ -62,6 +65,62 @@
 				toggleCheck = false;
 
 			});
-		})
+		});
+
+		$personalInfo.each(function(){
+			var $personal = $(this);
+			var $personalBtn = $('>a', $personal);
+			var $personalContent = $('>ul', $personal);
+			var $personalCheck = false;
+			$personalBtn.on('click', function(e){
+				e.preventDefault();
+
+				if(!$personalCheck){
+					$personalContent.stop().slideDown(300);
+					$personalCheck = true;
+				}else{
+					$personalContent.stop().slideUp(300);
+					$personalCheck = false;
+				}
+
+
+			});
+
+
+		});
+
+		$visuals.each(function() {
+			var $visual = $(this);
+			var $visualContent = $('.visual-content', $visual);
+			var options = {
+				slides : '>li',
+				timeout : 2400,
+				fx : 'fade',
+				log : false,
+				pauseOnHover : true,
+				pagerActiveClass : 'active'
+			};
+			var $prev = $('.visual-prev a', $visual).each(function() {
+				options.prev = this;
+			});
+			var $next = $('.visual-next a', $visual).each(function() {
+				options.next = this;
+
+				setTimeout(function() {
+					$next.click();
+				}, 1200);
+			});
+			var $pager = $('.pagination', $visual).each(function() {
+				options.pager = this;
+				options.pagerTemplate = '';
+				options.pagerEvent = 'mouseover';
+			});
+
+			$visualContent.cycle(options);
+
+			$(document).one('pjax:beforeReplace', function() {
+				$visualContent.cycle('destroy');
+			});
+		});
 	});
 })(jQuery);

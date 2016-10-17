@@ -12,10 +12,10 @@
                 <img src="<?php echo $config["resourcesDir"]; ?>/images/part/main/visual-2.jpg" alt="">
             </li>
         </ul>
-        <ul class="pagination">
-            <li><a href="#"></a></li>
-            <li><a href="#"></a></li>
-        </ul>
+        <div class="pagination">
+            <a href="#"></a>
+            <a href="#"></a>
+        </div>
         <ul class="pager">
             <li class="visual-prev"><a href="#prev"><span class="sr-only">이전</span></a></li>
             <li class="visual-next"><a href="#next"><span class="sr-only">다음</span></a></li>

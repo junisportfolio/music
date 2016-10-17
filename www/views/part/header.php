@@ -7,17 +7,17 @@
 		<div class="nav">
 			<a href="#sitemap" class="sitemap"><i class="fa fa-align-justify" aria-hidden="true"></i><span class="sr-only">사이트맵</span></a>
 			<ul>
-				<li><a href="song.php">Song</a></li>
-				<li><a href="album.php">Album</a></li>
-				<li><a href="video.php">Video</a></li>
-				<li><a href="photo.php">Photo</a></li>
-				<li><a href="news.php">News</a></li>
-				<li><a href="event.php">Event</a></li>
+				<li><a href="song.php"><span class="btn-lnb btn-song">Song</span></a></li>
+				<li><a href="album.php"><span class="btn-lnb btn-album">Album</span></a></li>
+				<li><a href="video.php"><span class="btn-lnb btn-video">Video</span></a></li>
+				<li><a href="photo.php"><span class="btn-lnb btn-photo">Photo</span></a></li>
+				<li><a href="news.php"><span class="btn-lnb btn-news">News</span></a></li>
+				<li><a href="event.php"><span class="btn-lnb btn-event">Event</span></a></li>
 			</ul>
 		</div>
 		<div class="gnb">
 			<ul class="log-in">
-				<li>
+				<li class="personal-info">
 					<a href="#">
 						<strong>ygmusic001</strong>님
 						<span class="btn btn-arrow"></span>
@@ -51,9 +51,9 @@
 						<input type="text" placeholder="빅뱅 스페셜에디션">
 						<span class="sr-only">검색창</span>
 					</label>
-					<a href="" class="btn btn-search">
+					<button href="" class="btn btn-search">
 						<span class="sr-only">검색</span>
-					</a>
+					</button>
 				</filedset>
 			</form>
 		</div>

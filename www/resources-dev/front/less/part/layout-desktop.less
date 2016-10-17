@@ -44,16 +44,36 @@
 				border-top: 0;
 
 				a{
-					text-align: center;
 					height: 100%;
 					padding: 0;
-					line-height: 37px;
 					overflow: hidden;
 					background: transparent;
 					color: #333;
 					font-weight: bolder;
 					text-transform: uppercase;
 					letter-spacing: -1px;
+					text-align: center;
+
+					&:before{
+						display: inline-block;
+						content: '';
+						width: 1px;
+						height: 100%;
+						vertical-align: middle;
+					}
+					span{
+						vertical-align: middle;
+						margin-top: -5px;
+
+
+					}
+				}
+				&:hover,
+				&.on,
+				&.active{
+					a{
+						background-color: transparent;
+					}
 				}
 			}
 		}
@@ -91,7 +111,7 @@
 				}
 				ul{
 					display: none;
-					z-index: 100;
+					z-index: 300;
 					width: 100px;
 					height: 105px;
 					padding: 8px;
@@ -179,6 +199,8 @@
 			line-height: 24px;
 			color: #5e5e5e;
 			font-size: 12px;
+			border: none;
+			padding: 0;
 		}
 	}
 }

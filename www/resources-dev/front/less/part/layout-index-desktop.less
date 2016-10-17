@@ -1,5 +1,4 @@
 #visual{
-	padding-bottom: 30px;
 
 	.visual-content{
 		li{
@@ -12,46 +11,43 @@
 
 			}
 		}
-
-
 	}
 
 	.pagination{
+		z-index: 110;
 		position: absolute;
 		display: block;
 		left: 0;
-		bottom: 30px;
+		bottom: 0;
 		width: 100%;
 		height: 28px;
 		background: url('../images/part/main/pagination-bg.png') 0 0 repeat-x;
 		text-align: center;
 
-		li{
-			display: inline-block;;
-
-			a{
-				display: block;
-				width: 8px;
-				height: 8px;
-				margin: 10px 2px;
-				background-color: #fff;
-				border-radius: 25px;
-			}
+		a{
+			display: inline-block;
+			width: 8px;
+			height: 8px;
+			margin: 10px 2px;
+			background-color: #fff;
+			border-radius: 25px;
 
 			&:hover,
+			&.on,
 			&.active{
-				a{
-					width: 18px;
-				}
+				width: 18px;
 
 			}
 		}
+
+
 	}
 
 	.pager{
 		display: block;
 
 		li{
+			z-index: 110;
 			position: absolute;
 			top: 50%;
 			margin-top: -25px;
@@ -86,6 +82,8 @@
 	}
 }
 #content{
+	margin-top: 30px;
+
 	.content-1,
 	.content-2{
 
@@ -142,7 +140,6 @@
 							top: 0;
 							left: 8px;
 						}
-						padding: 7px 0 7px 11px;
 						img{
 							width: 230px;
 
