@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49f8b612-7778-435e-81a9-3a50611d6c2e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/images/part/icon/sp.png" afterPath="$PROJECT_DIR$/www/resources-dev/front/images/part/icon/sp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_samples/empty.js" afterPath="$PROJECT_DIR$/_samples/empty.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_samples/jquery.cycle.js" afterPath="$PROJECT_DIR$/_samples/jquery.cycle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/etc/jspack/2.components/scroll-paging.js" afterPath="$PROJECT_DIR$/_unuse/etc/jspack/2.components/scroll-paging.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/jspack/1.vendor/jquery.uploadfile.js" afterPath="$PROJECT_DIR$/_unuse/hogicms/jspack/1.vendor/jquery.uploadfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/jspack/2.components/calendar.js" afterPath="$PROJECT_DIR$/_unuse/hogicms/jspack/2.components/calendar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/jspack/2.components/crud.js" afterPath="$PROJECT_DIR$/_unuse/hogicms/jspack/2.components/crud.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/jspack/2.components/custom-radios.js" afterPath="$PROJECT_DIR$/_unuse/hogicms/jspack/2.components/custom-radios.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/jspack/2.components/modal-box.js" afterPath="$PROJECT_DIR$/_unuse/hogicms/jspack/2.components/modal-box.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/jspack/2.components/popup.js" afterPath="$PROJECT_DIR$/_unuse/hogicms/jspack/2.components/popup.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/jspack/2.components/scroll-lock.js" afterPath="$PROJECT_DIR$/_unuse/hogicms/jspack/2.components/scroll-lock.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/jspack/2.components/smoothscroll.js" afterPath="$PROJECT_DIR$/_unuse/hogicms/jspack/2.components/smoothscroll.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/jspack/2.components/toppopup.js" afterPath="$PROJECT_DIR$/_unuse/hogicms/jspack/2.components/toppopup.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/jspack/3.part/jquery.uploadfile-config.js" afterPath="$PROJECT_DIR$/_unuse/hogicms/jspack/3.part/jquery.uploadfile-config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/jspack/3.part/modal-box-config.js" afterPath="$PROJECT_DIR$/_unuse/hogicms/jspack/3.part/modal-box-config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/jspack/3.part/nhnEditor-config.js" afterPath="$PROJECT_DIR$/_unuse/hogicms/jspack/3.part/nhnEditor-config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/board-default-tablet.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/board-default-tablet.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/board-default.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/board-default.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/board-faq.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/board-faq.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/board-gallery-desktop.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/board-gallery-desktop.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/board-gallery-introduce-tablet.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/board-gallery-introduce-tablet.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/board-gallery-introduce.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/board-gallery-introduce.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/board-gallery-tablet.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/board-gallery-tablet.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/board-gallery.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/board-gallery.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/board-qna.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/board-qna.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/board.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/board.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/calendar.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/calendar.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/content-desktop.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/content-desktop.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/content-tablet.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/content-tablet.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/content.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/content.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/crud-tablet.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/crud-tablet.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/crud.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/crud.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/custom-radios.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/custom-radios.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/front-desktop.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/front-desktop.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/front.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/front.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/google-search.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/google-search.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/modal-box-common-desktop.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/modal-box-common-desktop.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/modal-box-common.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/modal-box-common.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/modal-box-desktop.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/modal-box-desktop.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/modal-box.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/modal-box.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/nhnEditor.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/nhnEditor.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/popup-desktop.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/popup-desktop.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/popup.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/popup.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/professor-class-desktop.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/professor-class-desktop.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/professor-class-tablet.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/professor-class-tablet.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/professor-class.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/professor-class.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/scroll-lock-desktop.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/scroll-lock-desktop.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/scroll-lock.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/scroll-lock.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/toppopup-desktop.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/toppopup-desktop.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/toppopup-tablet.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/toppopup-tablet.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/components/toppopup.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/components/toppopup.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/hogicms/less/vendor/jquery.uploadfile.less" afterPath="$PROJECT_DIR$/_unuse/hogicms/less/vendor/jquery.uploadfile.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/pjax/jspack/1.vendor/jquery-pjax/jquery.pjax.js" afterPath="$PROJECT_DIR$/_unuse/pjax/jspack/1.vendor/jquery-pjax/jquery.pjax.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_unuse/pjax/jspack/3.part/jquery-pjax-config.js" afterPath="$PROJECT_DIR$/_unuse/pjax/jspack/3.part/jquery-pjax-config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tool/front/Gruntfile.js" afterPath="$PROJECT_DIR$/tool/front/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tool/front/bower.json" afterPath="$PROJECT_DIR$/tool/front/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tool/front/gruntBuild.bat" afterPath="$PROJECT_DIR$/tool/front/gruntBuild.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tool/front/gruntWatch.bat" afterPath="$PROJECT_DIR$/tool/front/gruntWatch.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tool/front/npmUpdate.bat" afterPath="$PROJECT_DIR$/tool/front/npmUpdate.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tool/front/package.json" afterPath="$PROJECT_DIR$/tool/front/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/build.php" afterPath="$PROJECT_DIR$/www/build.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.php" afterPath="$PROJECT_DIR$/www/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib.php" afterPath="$PROJECT_DIR$/www/lib.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/etc/less.min.js" afterPath="$PROJECT_DIR$/www/resources-dev/front/etc/less.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/fonts/font-awesome/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/www/resources-dev/front/fonts/font-awesome/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/fonts/glyphicons-halflings-regular/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/www/resources-dev/front/fonts/glyphicons-halflings-regular/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/jspack/1.vendor/jquery-cycle2/jquery.cycle2.js" afterPath="$PROJECT_DIR$/www/resources-dev/front/jspack/1.vendor/jquery-cycle2/jquery.cycle2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/jspack/1.vendor/jquery-ui/core.js" afterPath="$PROJECT_DIR$/www/resources-dev/front/jspack/1.vendor/jquery-ui/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/jspack/1.vendor/jquery-ui/datepicker.js" afterPath="$PROJECT_DIR$/www/resources-dev/front/jspack/1.vendor/jquery-ui/datepicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/jspack/1.vendor/jquery-ui/datepicker2.js" afterPath="$PROJECT_DIR$/www/resources-dev/front/jspack/1.vendor/jquery-ui/datepicker2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/jspack/1.vendor/jquery.form.js" afterPath="$PROJECT_DIR$/www/resources-dev/front/jspack/1.vendor/jquery.form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/jspack/1.vendor/nprogress/nprogress.js" afterPath="$PROJECT_DIR$/www/resources-dev/front/jspack/1.vendor/nprogress/nprogress.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/jspack/2.components/core.js" afterPath="$PROJECT_DIR$/www/resources-dev/front/jspack/2.components/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/jspack/2.components/hogi.js" afterPath="$PROJECT_DIR$/www/resources-dev/front/jspack/2.components/hogi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/jspack/2.components/jquery.hogi.marquee.js" afterPath="$PROJECT_DIR$/www/resources-dev/front/jspack/2.components/jquery.hogi.marquee.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/jspack/3.part/app.js" afterPath="$PROJECT_DIR$/www/resources-dev/front/jspack/3.part/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/jspack/3.part/jquery-ui-config.js" afterPath="$PROJECT_DIR$/www/resources-dev/front/jspack/3.part/jquery-ui-config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/jspack/3.part/page.js" afterPath="$PROJECT_DIR$/www/resources-dev/front/jspack/3.part/page.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/jsvendor-dev-only/jquery.js" afterPath="$PROJECT_DIR$/www/resources-dev/front/jsvendor-dev-only/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/jsvendor/jquery-1.12.2.min.js" afterPath="$PROJECT_DIR$/www/resources-dev/front/jsvendor/jquery-1.12.2.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/jsvendor/jquery.min.js" afterPath="$PROJECT_DIR$/www/resources-dev/front/jsvendor/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/components/bootstrap/scaffolding.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/components/bootstrap/scaffolding.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/components/core.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/components/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/components/font-nanumgothic.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/components/font-nanumgothic.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/components/jquery.hogi.marquee.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/components/jquery.hogi.marquee.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/desktop.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/desktop.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/largedesktop.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/largedesktop.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/lib/config.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/lib/config.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/lib/mixins.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/lib/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/lib/util.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/lib/util.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/part/common.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/part/common.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/part/etc.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/part/etc.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/part/layout-desktop.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/part/layout-desktop.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/part/layout-index-desktop.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/part/layout-index-desktop.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/part/layout-index-tablet.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/part/layout-index-tablet.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/part/layout-index.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/part/layout-index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/part/layout.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/part/layout.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/part/normalize.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/part/normalize.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/phone.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/phone.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/tablet.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/tablet.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/.csscomb.json" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/.csscomb.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/.csslintrc" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/.csslintrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/alerts.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/alerts.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/badges.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/badges.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/bootstrap-desktop.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/bootstrap-desktop.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/bootstrap-largedesktop.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/bootstrap-largedesktop.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/bootstrap-tablet.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/bootstrap-tablet.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/bootstrap.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/bootstrap.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/breadcrumbs.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/breadcrumbs.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/button-groups.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/button-groups.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/buttons.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/buttons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/carousel.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/carousel.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/close.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/close.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/code.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/code.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/component-animations.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/component-animations.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/dropdowns.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/dropdowns.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/forms-tablet.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/forms-tablet.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/forms.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/forms.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/glyphicons.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/glyphicons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/grid-desktop.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/grid-desktop.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/grid-largedesktop.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/grid-largedesktop.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/grid-tablet.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/grid-tablet.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/grid.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/grid.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/input-groups.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/input-groups.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/jumbotron.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/jumbotron.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/labels.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/labels.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/list-group.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/list-group.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/media.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/media.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/alerts.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/alerts.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/background-variant.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/background-variant.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/border-radius.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/border-radius.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/buttons.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/buttons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/center-block.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/center-block.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/clearfix.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/clearfix.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/forms.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/forms.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/gradients.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/gradients.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/grid-framework.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/grid-framework.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/grid.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/grid.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/hide-text.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/hide-text.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/image.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/image.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/labels.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/labels.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/list-group.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/list-group.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/nav-divider.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/nav-divider.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/nav-vertical-align.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/nav-vertical-align.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/opacity.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/opacity.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/pagination.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/pagination.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/panels.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/panels.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/progress-bar.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/progress-bar.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/reset-filter.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/reset-filter.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/reset-text.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/reset-text.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/resize.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/resize.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/responsive-visibility.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/responsive-visibility.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/size.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/size.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/tab-focus.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/tab-focus.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/table-row.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/table-row.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/text-emphasis.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/text-emphasis.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/text-overflow.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/text-overflow.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/vendor-prefixes.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/mixins/vendor-prefixes.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/modals.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/modals.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/navbar.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/navbar.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/navs.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/navs.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/normalize.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/normalize.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/pager.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/pager.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/pagination.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/pagination.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/panels.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/panels.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/popovers.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/popovers.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/print.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/print.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/progress-bars.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/progress-bars.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/responsive-embed.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/responsive-embed.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/responsive-utilities-desktop.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/responsive-utilities-desktop.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/responsive-utilities-largedesktop.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/responsive-utilities-largedesktop.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/responsive-utilities-tablet.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/responsive-utilities-tablet.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/responsive-utilities.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/responsive-utilities.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/scaffolding.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/scaffolding.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/tables.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/tables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/theme.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/theme.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/thumbnails.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/thumbnails.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/tooltip.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/tooltip.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/type.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/type.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/utilities.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/utilities.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/variables.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/wells.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/bootstrap/wells.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/animated.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/animated.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/bordered-pulled.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/bordered-pulled.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/core.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/fixed-width.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/fixed-width.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/font-awesome.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/icons.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/larger.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/larger.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/list.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/mixins.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/path.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/path.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/rotated-flipped.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/rotated-flipped.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/screen-reader.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/screen-reader.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/stacked.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/stacked.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/variables.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/font-awesome/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/jquery-ui/base.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/jquery-ui/base.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/jquery-ui/core.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/jquery-ui/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/jquery-ui/datepicker.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/jquery-ui/datepicker.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/jquery-ui/theme.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/jquery-ui/theme.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/nprogress.less" afterPath="$PROJECT_DIR$/www/resources-dev/front/less/vendor/nprogress.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources/favicon/browserconfig.xml" afterPath="$PROJECT_DIR$/www/resources/favicon/browserconfig.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/resources/favicon/manifest.json" afterPath="$PROJECT_DIR$/www/resources/favicon/manifest.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/views/a-b-c.php" afterPath="$PROJECT_DIR$/www/views/a-b-c.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/views/index.php" afterPath="$PROJECT_DIR$/www/views/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/views/part/app-footer.php" afterPath="$PROJECT_DIR$/www/views/part/app-footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/views/part/app-header.php" afterPath="$PROJECT_DIR$/www/views/part/app-header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/views/part/footer-sub.php" afterPath="$PROJECT_DIR$/www/views/part/footer-sub.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/views/part/footer.php" afterPath="$PROJECT_DIR$/www/views/part/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/views/part/header-sub.php" afterPath="$PROJECT_DIR$/www/views/part/header-sub.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/views/part/header.php" afterPath="$PROJECT_DIR$/www/views/part/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/views/sub.php" afterPath="$PROJECT_DIR$/www/views/sub.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/views/time.text" afterPath="$PROJECT_DIR$/www/views/time.text" />
+    </list>
+    <ignored path="music.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="music" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49f8b612-7778-435e-81a9-3a50611d6c2e" name="Default" comment="" />
+      <created>1476700740667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1476700740667</updated>
+      <workItem from="1476700743688" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
