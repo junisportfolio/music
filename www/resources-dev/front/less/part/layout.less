@@ -32,6 +32,7 @@ a{
 	}
 
 	.nav{
+
 		 .sitemap{
 			 position: absolute;
 			 right: 0;
@@ -44,6 +45,7 @@ a{
 		 }
 
 		ul{
+			z-index: 1000;
 			display: none;
 			position: fixed;
 			left: 0;
@@ -72,6 +74,21 @@ a{
 				&:first-child{
 					border-top: none;
 				}
+
+				&:hover,
+				&.on,
+				&.active{
+					a{
+						background-color: #ddd;
+					}
+				}
+			}
+		}
+
+		&.on,
+		&.active{
+			ul{
+				display: block;
 			}
 		}
 	}
@@ -120,11 +137,13 @@ a{
 	}
 }
 #container{
+	z-index: 50;
 
 	.hot-issue{
 		position: relative;
 		padding: 10px;
 		border-bottom: 1px solid #999;
+		z-index: 200;
 
 		a{
 			text-transform: uppercase;
@@ -188,6 +207,14 @@ a{
 
 				&:first-child{
 					border-top: none;
+				}
+
+				&:hover,
+				&.on,
+				&.active{
+					a{
+						background-color: #ddd;
+					}
 				}
 			}
 

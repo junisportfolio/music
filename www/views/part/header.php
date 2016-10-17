@@ -2,17 +2,17 @@
 <div id="wrap">
 	<div id="header">
 		<h1 class="logo">
-			<a href="#"><span class="sr-only">Monoraum</span></a>
+			<a href="/"><span class="sr-only">Monoraum</span></a>
 		</h1>
 		<div class="nav">
-			<a href="#" class="sitemap"><i class="fa fa-align-justify" aria-hidden="true"></i><span class="sr-only">사이트맵</span></a>
+			<a href="#sitemap" class="sitemap"><i class="fa fa-align-justify" aria-hidden="true"></i><span class="sr-only">사이트맵</span></a>
 			<ul>
-				<li><a href="#">Song</a></li>
-				<li><a href="#">Album</a></li>
-				<li><a href="#">Video</a></li>
-				<li><a href="#">Photo</a></li>
-				<li><a href="#">News</a></li>
-				<li><a href="#">Event</a></li>
+				<li><a href="song.php">Song</a></li>
+				<li><a href="album.php">Album</a></li>
+				<li><a href="video.php">Video</a></li>
+				<li><a href="photo.php">Photo</a></li>
+				<li><a href="news.php">News</a></li>
+				<li><a href="event.php">Event</a></li>
 			</ul>
 		</div>
 		<div class="gnb">

@@ -50,9 +50,9 @@
                         <td><label for="play-list-1">Special (Feat. Jennie Kim of YG ...</label></td>
                         <td>LEE HI</td>
                         <td>
-                            <span class="sp music-icon video"><span class="sr-only">비디오</span></span>
-                            <span class="sp music-icon lyrics"><span class="sr-only">음악</span></span>
-                            <span class="sp music-icon favorite"><span class="sr-only">즐겨찾기</span></span>
+                            <a href="#" class="sp music-icon video"><span class="sr-only">비디오</span></a>
+                            <a href="#" class="sp music-icon lyrics"><span class="sr-only">음악</span></a>
+                            <a href="#" class="sp music-icon favorite"><span class="sr-only">즐겨찾기</span></a>
                         </td>
                     </tr>
                     <tr>
@@ -72,9 +72,9 @@
                         <td><label for="play-list-3">It`s Over</label></td>
                         <td>LEE HI</td>
                         <td>
-                            <span class="sp music-icon video"><span class="sr-only">비디오</span></span>
-                            <span class="sp music-icon lyrics"><span class="sr-only">음악</span></span>
-                            <span class="sp music-icon favorite"><span class="sr-only">즐겨찾기</span></span>
+                            <a href="#" class="sp music-icon video"><span class="sr-only">비디오</span></a>
+                            <a href="#" class="sp music-icon lyrics"><span class="sr-only">음악</span></a>
+                            <a href="#" class="sp music-icon favorite"><span class="sr-only">즐겨찾기</span></a>
                         </td>
                     </tr>
                     <tr>
@@ -83,9 +83,9 @@
                         <td><label for="play-list-4">1.2.3.4</label></td>
                         <td>LEE HI</td>
                         <td>
-                            <span class="sp music-icon video"><span class="sr-only">비디오</span></span>
-                            <span class="sp music-icon lyrics"><span class="sr-only">음악</span></span>
-                            <span class="sp music-icon favorite"><span class="sr-only">즐겨찾기</span></span>
+                            <a href="#" class="sp music-icon video"><span class="sr-only">비디오</span></a>
+                            <a href="#" class="sp music-icon lyrics"><span class="sr-only">음악</span></a>
+                            <a href="#" class="sp music-icon favorite"><span class="sr-only">즐겨찾기</span></a>
                         </td>
                     </tr>
                     <tr>
@@ -94,9 +94,9 @@
                         <td><label for="play-list-5">Up</label></td>
                         <td>EPIK HIGH</td>
                         <td>
-                            <span class="sp music-icon video"><span class="sr-only">비디오</span></span>
-                            <span class="sp music-icon lyrics"><span class="sr-only">음악</span></span>
-                            <span class="sp music-icon favorite"><span class="sr-only">즐겨찾기</span></span>
+                            <a href="#" class="sp music-icon video"><span class="sr-only">비디오</span></a>
+                            <a href="#" class="sp music-icon lyrics"><span class="sr-only">음악</span></a>
+                            <a href="#" class="sp music-icon favorite"><span class="sr-only">즐겨찾기</span></a>
                         </td>
                     </tr>
                     <tr>
@@ -105,9 +105,9 @@
                         <td><label for="play-list-6">EPIK HIGH</label></td>
                         <td>EPIK HIGH</td>
                         <td>
-                            <span class="sp music-icon video"><span class="sr-only">비디오</span></span>
-                            <span class="sp music-icon lyrics"><span class="sr-only">음악</span></span>
-                            <span class="sp music-icon favorite"><span class="sr-only">즐겨찾기</span></span>
+                            <a href="#" class="sp music-icon video"><span class="sr-only">비디오</span></a>
+                            <a href="#" class="sp music-icon lyrics"><span class="sr-only">음악</span></a>
+                            <a href="#" class="sp music-icon favorite"><span class="sr-only">즐겨찾기</span></a>
                         </td>
                     </tr>
                     <tr>
@@ -116,9 +116,9 @@
                         <td><label for="play-list-7">Don`t Hate Me</label></td>
                         <td>G-DRAGON</td>
                         <td>
-                            <span class="sp music-icon video"><span class="sr-only">비디오</span></span>
-                            <span class="sp music-icon lyrics"><span class="sr-only">음악</span></span>
-                            <span class="sp music-icon favorite"><span class="sr-only">즐겨찾기</span></span>
+                            <a href="#" class="sp music-icon video"><span class="sr-only">비디오</span></a>
+                            <a href="#" class="sp music-icon lyrics"><span class="sr-only">음악</span></a>
+                            <a href="#" class="sp music-icon favorite"><span class="sr-only">즐겨찾기</span></a>
                         </td>
                     </tr>
                     <tr>
@@ -127,9 +127,9 @@
                         <td><label for="play-list-8">크레용 (Crayon)</label></td>
                         <td>G-DRAGON</td>
                         <td>
-                            <span class="sp music-icon video"><span class="sr-only">비디오</span></span>
-                            <span class="sp music-icon lyrics"><span class="sr-only">음악</span></span>
-                            <span class="sp music-icon favorite"><span class="sr-only">즐겨찾기</span></span>
+                            <a href="#" class="sp music-icon video"><span class="sr-only">비디오</span></a>
+                            <a href="#" class="sp music-icon lyrics"><span class="sr-only">음악</span></a>
+                            <a href="#" class="sp music-icon favorite"><span class="sr-only">즐겨찾기</span></a>
                         </td>
                     </tr>
                     <tr>
@@ -138,9 +138,9 @@
                         <td><label for="play-list-9">그 XX (That XX)</label></td>
                         <td>G-DRAGON</td>
                         <td>
-                            <span class="sp music-icon video"><span class="sr-only">비디오</span></span>
-                            <span class="sp music-icon lyrics"><span class="sr-only">음악</span></span>
-                            <span class="sp music-icon favorite"><span class="sr-only">즐겨찾기</span></span>
+                            <a href="#" class="sp music-icon video"><span class="sr-only">비디오</span></a>
+                            <a href="#" class="sp music-icon lyrics"><span class="sr-only">음악</span></a>
+                            <a href="#" class="sp music-icon favorite"><span class="sr-only">즐겨찾기</span></a>
                         </td>
                     </tr>
                     <tr>
@@ -149,9 +149,9 @@
                         <td><label for="play-list-10">One Of A Kind</label></td>
                         <td>PSY</td>
                         <td>
-                            <span class="sp music-icon video"><span class="sr-only">비디오</span></span>
-                            <span class="sp music-icon lyrics"><span class="sr-only">음악</span></span>
-                            <span class="sp music-icon favorite"><span class="sr-only">즐겨찾기</span></span>
+                            <a href="#" class="sp music-icon video"><span class="sr-only">비디오</span></a>
+                            <a href="#" class="sp music-icon lyrics"><span class="sr-only">음악</span></a>
+                            <a href="#" class="sp music-icon favorite"><span class="sr-only">즐겨찾기</span></a>
                         </td>
                     </tr>
                     </tbody>
@@ -173,10 +173,54 @@
             <div class="con-1-2">
                 <h3 class="main-title">ALBUM <span class="small"><span class="sp hanteo"><span class="sr-only">Hanteo chart</span></span>YG MUSIC is a Hanteo Chart Family Shop</span></h3>
                 <ul class="album-jacket">
-                    <li class="pre-order"><a href="#"><img src="<?php echo $config["resourcesDir"]; ?>/images/part/main/album-psy.jpg" alt=""><span class="sr-only">psy</span></a></li>
-                    <li class="hot"><a href="#"><img src="<?php echo $config["resourcesDir"]; ?>/images/part/main/album-2ne1.jpg" alt=""><span class="sr-only">2ne1</span></a></li>
-                    <li><a href="#"><img src="<?php echo $config["resourcesDir"]; ?>/images/part/main/album-seven.jpg" alt=""><span class="sr-only">seven</span></a></li>
-                    <li class="new"><a href="#"><img src="<?php echo $config["resourcesDir"]; ?>/images/part/main/album-shine.jpg" alt=""><span class="sr-only">goaagon shine alight</span></a></li>
+                    <li class="pre-order">
+                        <a href="#">
+                            <img src="<?php echo $config["resourcesDir"]; ?>/images/part/main/album-psy.jpg" alt="">
+                            <div class="cover">
+                                <span>
+                                    <strong class="name">PSY</strong>
+                                    <span class="preview">GENTLE MAN</span>
+                                    <span class="autor">싸이</span>
+                                </span>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="hot">
+                        <a href="#">
+                            <img src="<?php echo $config["resourcesDir"]; ?>/images/part/main/album-2ne1.jpg" alt="">
+                            <div class="cover">
+                                <span>
+                                    <strong class="name">2ne1</strong>
+                                    <span class="preview">2012 <span>Global Tour</span> Live CD</span>
+                                    <span class="autor">투애니원</span>
+                                </span>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <img src="<?php echo $config["resourcesDir"]; ?>/images/part/main/album-seven.jpg" alt="">
+                            <div class="cover">
+                                <span>
+                                    <strong class="name">seven</strong>
+                                    <span class="preview">2ND MINI ALBUM</span>
+                                    <span class="autor">세븐</span>
+                                </span>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="new">
+                        <a href="#">
+                            <img src="<?php echo $config["resourcesDir"]; ?>/images/part/main/album-shine.jpg" alt="">
+                            <div class="cover">
+                                <span>
+                                    <strong class="name">shine</strong>
+                                    <span class="preview">GENTLE MAN</span>
+                                    <span class="autor">몰라</span>
+                                </span>
+                            </div>
+                        </a>
+                    </li>
                 </ul>
             </div>
         </div>
