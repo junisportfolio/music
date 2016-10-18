@@ -178,21 +178,23 @@
                             <img src="<?php echo $config["resourcesDir"]; ?>/images/part/main/album-psy.jpg" alt="">
                             <div class="cover">
                                 <span>
-                                    <strong class="name">PSY</strong>
-                                    <span class="preview">GENTLE MAN</span>
-                                    <span class="autor">싸이</span>
+                                    <strong class="name">PSY New Single</strong>
+                                    <span class="preview">Gentleman</span>
+                                    <span class="autor">PSY<span>2013.03.18</span></span>
                                 </span>
                             </div>
                         </a>
+
+
                     </li>
                     <li class="hot">
                         <a href="#">
                             <img src="<?php echo $config["resourcesDir"]; ?>/images/part/main/album-2ne1.jpg" alt="">
                             <div class="cover">
                                 <span>
-                                    <strong class="name">2ne1</strong>
-                                    <span class="preview">2012 <span>Global Tour</span> Live CD</span>
-                                    <span class="autor">투애니원</span>
+                                    <strong class="name">2012 2NE1 GLOBAL</strong>
+                                    <span class="preview">TOUR LIVE DVD</span>
+                                    <span class="autor">2NE1<span>2013.03.18</span></span>
                                 </span>
                             </div>
                         </a>
@@ -202,9 +204,9 @@
                             <img src="<?php echo $config["resourcesDir"]; ?>/images/part/main/album-seven.jpg" alt="">
                             <div class="cover">
                                 <span>
-                                    <strong class="name">seven</strong>
-                                    <span class="preview">2ND MINI ALBUM</span>
-                                    <span class="autor">세븐</span>
+                                    <strong class="name">세븐 뉴</strong>
+                                    <span class="preview">미니 앨범</span>
+                                    <span class="autor">SE7EN<span>2013.03.18</span></span>
                                 </span>
                             </div>
                         </a>
@@ -214,9 +216,9 @@
                             <img src="<?php echo $config["resourcesDir"]; ?>/images/part/main/album-shine.jpg" alt="">
                             <div class="cover">
                                 <span>
-                                    <strong class="name">shine</strong>
-                                    <span class="preview">GENTLE MAN</span>
-                                    <span class="autor">몰라</span>
+                                    <strong class="name">G-Dragon 콘서트</strong>
+                                    <span class="preview">라이브앨범 ‘Shine...</span>
+                                    <span class="autor">G-Dragon<span>2013.03.18</span></span>
                                 </span>
                             </div>
                         </a>

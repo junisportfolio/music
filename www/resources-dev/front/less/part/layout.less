@@ -8,6 +8,7 @@ ul{
 a{
 	text-decoration: none;
 }
+
 #header,
 #container,
 #footer{
@@ -16,6 +17,7 @@ a{
 	margin: auto;
 	position: relative;
 }
+
 #header{
 	z-index: 100;
 	border-bottom: 2px solid #000;
@@ -33,16 +35,16 @@ a{
 
 	.nav{
 
-		 .sitemap{
-			 position: absolute;
-			 right: 0;
-			 top: 0;
-			 width: 36px;
-			 height: 36px;
-			 padding: 10px;
-			 font-size: 36px;
-			 color: #333;
-		 }
+		.sitemap{
+			position: absolute;
+			right: 0;
+			top: 0;
+			width: 36px;
+			height: 36px;
+			padding: 10px;
+			font-size: 36px;
+			color: #333;
+		}
 
 		ul{
 			z-index: 1000;
@@ -136,8 +138,14 @@ a{
 		overflow: hidden;
 	}
 }
+
 #container{
 	z-index: 50;
+	&:after{
+		clear: both;
+		display: block;
+		content: '';
+	}
 
 	.hot-issue{
 		position: relative;
@@ -222,6 +230,9 @@ a{
 	}
 }
 
+#page-content{
+
+}
 #footer{
 	//height: 193px;
 	padding-bottom: 50px;
@@ -259,4 +270,7 @@ a{
 	.family-site{
 		display: none;
 	}
+}
+#snb{
+	display: none;
 }

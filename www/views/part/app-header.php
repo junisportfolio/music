@@ -1,6 +1,6 @@
 <?php
 $config["themeColor"] = "#977049";
-$config["sitename"] = "ㅇㅇㅇ";
+$config["sitename"] = "MUSIC - Juni's Portfolio";
 $config["mode"] = "front";
 $config["isDev"] = true;
 $config["cssTableMinWidth"] = 640;
